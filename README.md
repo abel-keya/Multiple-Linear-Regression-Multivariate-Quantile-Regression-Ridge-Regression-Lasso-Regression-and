@@ -4,12 +4,6 @@
   <img src="image23.jpg" width="790" height="473" align="center">
   </p>
 
-The project code implements multivariate linear regression techniques:
-* Multiple Linear Regression 
-* Multivariate Quantile Regression
-* Ridge Regression 
-* Lasso Regression 
-* Elastic Net Regression
 >
 # Description
 >
@@ -18,9 +12,14 @@ The best performing model is optimized in the problem solution
 >
 
 >
-
-
 # Context
+The project code implements multivariate linear regression techniques:
+* Multiple Linear Regression 
+* Multivariate Quantile Regression
+* Ridge Regression 
+* Lasso Regression 
+* Elastic Net Regression
+>
 The [dataset](https://github.com/abel-keya/week_7_IP_Abel_Keya_hass_consulting-_company_with_quantile_and__regularization_based_regression_tech/blob/master/Independent%20Project%20Week%207%20-%20house_data.csv) has the following features:
 # Data Features
 * Id
