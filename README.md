@@ -7,7 +7,9 @@ The project code implements multivariate linear regression techniques:
 * Ridge Regression 
 * Lasso Regression 
 * Elastic Net Regression
-
+>
+# Description
+>
 An interrogation of the characteristics of the models on the coefficients is performed.The  performance of Each models is obtained in terms of MSE is obtained,
 The best performing model is optimized in the problem solution
 >
@@ -16,8 +18,8 @@ The best performing model is optimized in the problem solution
 </p>
 
 >
-# Description
-Polynomial and Logistic Regression models to predict the number of goals scored by a team playing home or away and the winning team.
+
+
 # Context
 The [dataset](https://drive.google.com/file/d/1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc/view) has the following features:
 # Data Features
