@@ -10,3 +10,51 @@ The project code implements multivariate linear regression techniques:
 
 An interrogation of the characteristics of the models on the coefficients is performed.The  performance of Each models is obtained in terms of MSE is obtained,
 The best performing model is optimized in the problem solution
+>
+<p>
+ <img src="image23.jpg" alt="By Abel Keya" title="HOUSE PRICES" />
+</p>
+
+>
+# Description
+Polynomial and Logistic Regression models to predict the number of goals scored by a team playing home or away and the winning team.
+# Context
+The [dataset](https://drive.google.com/file/d/1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc/view) has the following features:
+# Data Features
+* Id
+* price - Price of the house
+* bedrooms - Number of Bedrooms
+* bathrooms - Number of Bathrooms
+* sqft_living - Square feet area of living area
+* sqft_lot - Square feet area of parking Layout
+* floors - Number of Floors
+* waterfront - Whether waterfront is there or not
+* view - Number of Views
+* grade - Grades
+* sqft_above
+* sqft_basement - Square feet area off basement
+* yr_built - Year the house is built
+* yr_renovated - Year the house is renovated
+* zipcode - zipcode os the house
+* lat : Latitude of the house
+* lon : Longitude of the house
+* sqft_living15
+* sqft_lot15
+>
+# Requirements
+* Anaconda installation
+* Google colab
+* Setup instruction
+* Save a copy of the notebook in your drive and open it to access.
+# Technologies used
+* Python 3.6
+* Pandas Python Library
+* Numpy Python Library
+* Seaborn Python Library
+* Matplotlib Python Library
+* scikitLearn
+# Support
+In case of any clarifications or suggestions with regards to this project email me at jumakeya@gmail.com
+
+License
+Copyright (c) 2020 **Abel Keya**
