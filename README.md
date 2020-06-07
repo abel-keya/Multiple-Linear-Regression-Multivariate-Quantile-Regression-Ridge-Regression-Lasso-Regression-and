@@ -1,7 +1,7 @@
 # Multiple Linear Regression ,Multivariate Quantile Regression, Ridge Regression, Lasso Regression and Elastic Net Regression
 **Problem statement:**  Hass Consulting Company which is a real estate leader with over 25 years of experience. You have been tasked to study the factors that affect housing prices using the given information on real estate properties that was collected over the past few months. Later onwards, create a model that would allow the company to accurately predict the sale prices. 
 <p>
-  <img src="image23.jpg" width="790" height="473" align="center">
+  <img src="image23.jpg" width="850" height="473" align="center">
   </p>
 
 >
@@ -49,15 +49,8 @@ The [dataset](https://github.com/abel-keya/week_7_IP_Abel_Keya_hass_consulting-_
 * Save a copy of the notebook in your drive and open it to access.
 # Technologies used
 <p>
-  <img src="DSrequirement.jpg" alt="DS" title="Requirements" />
+  <img src="DSrequirement.jpg" width="850" height="473" align="center" alt="DS" title="Requirements" />
 </p>
-
-* Python 3.6
-* Pandas Python Library
-* Numpy Python Library
-* Seaborn Python Library
-* Matplotlib Python Library
-* scikitLearn
 # Support
 In case of any clarifications or suggestions with regards to this project email me at jumakeya@gmail.com
 
