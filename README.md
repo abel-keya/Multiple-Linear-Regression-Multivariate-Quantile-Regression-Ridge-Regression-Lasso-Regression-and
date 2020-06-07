@@ -1,0 +1,2 @@
+# week_7_IP_Abel_Keya_hass_consulting-_company_with_quantile_and__regularization_based_regression_tech
+Multiple Linear Regression ,Multivariate Quantile Regression, Ridge Regression, Lasso Regression and Elastic Net Regression
