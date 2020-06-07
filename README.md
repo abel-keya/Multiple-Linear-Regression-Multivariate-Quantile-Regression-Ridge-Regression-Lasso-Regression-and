@@ -14,8 +14,7 @@ An interrogation of the characteristics of the models on the coefficients is per
 The best performing model is optimized in the problem solution
 >
 <p>
-  <img src="image14.jpg" alt="By Abel Keya" title="HOUSE PRICES" />
-  <img src="image14.jpg" width="690" height="473" align="center">
+  <img src="image23.jpg" width="690" height="473" align="center">
   </p>
 
 >
