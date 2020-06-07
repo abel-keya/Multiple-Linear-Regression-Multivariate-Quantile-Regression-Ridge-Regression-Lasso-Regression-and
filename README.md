@@ -17,7 +17,7 @@ The best performing model is optimized in the problem solution
   <img src="image14.jpg" alt="By Abel Keya" title="HOUSE PRICES" />
   </p>
   <p>
-  ![mage14|690x473](.png)
+  ![|690x473](mage14.png)
 </p>
 
 >
