@@ -13,7 +13,7 @@ The best performing model is optimized in the problem solution
 
 >
 # Context
-The project code implements multivariate linear regression techniques:
+The project code implements the following multivariate  regression techniques to predict house price:
 * Multiple Linear Regression 
 * Multivariate Quantile Regression
 * Ridge Regression 
