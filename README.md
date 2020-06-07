@@ -17,6 +17,7 @@ The best performing model is optimized in the problem solution
  <img src="image23.jpg" alt="By Abel Keya" title="HOUSE PRICES" />
  
  <img src="gauge.jpg" alt="By Abel Keya" title="HOUSE PRICES" />
+  <img src="gauge.jpg" alt="By Abel Keya" title="HOUSE PRICES" />
 </p>
 
 >
