@@ -51,8 +51,10 @@ The [dataset](https://drive.google.com/file/d/1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc/
 * Setup instruction
 * Save a copy of the notebook in your drive and open it to access.
 # Technologies used
+<p>
+  <img src="DSrequirements.jpg" alt="DS" title="Requirements" />
+</p>
 
- <img src="DSrequirements.jpg" alt="DS" title="Requirements" />
 * Python 3.6
 * Pandas Python Library
 * Numpy Python Library
