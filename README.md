@@ -23,7 +23,7 @@ The best performing model is optimized in the problem solution
 
 
 # Context
-The [dataset](https://drive.google.com/file/d/1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc/view) has the following features:
+The [dataset](https://github.com/abel-keya/week_7_IP_Abel_Keya_hass_consulting-_company_with_quantile_and__regularization_based_regression_tech/blob/master/Independent%20Project%20Week%207%20-%20house_data.csv) has the following features:
 # Data Features
 * Id
 * price - Price of the house
@@ -52,7 +52,7 @@ The [dataset](https://drive.google.com/file/d/1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc/
 * Save a copy of the notebook in your drive and open it to access.
 # Technologies used
 <p>
-  <img src="DSrequirements.jpg" alt="DS" title="Requirements" />
+  <img src="DSrequirement.jpg" alt="DS" title="Requirements" />
 </p>
 
 * Python 3.6
