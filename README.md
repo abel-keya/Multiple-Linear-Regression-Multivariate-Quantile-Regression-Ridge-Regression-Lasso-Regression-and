@@ -46,7 +46,7 @@ The [dataset](https://github.com/abel-keya/week_7_IP_Abel_Keya_hass_consulting-_
 * Anaconda installation
 * Google colab
 * Setup instruction
-* Save a copy of the notebook in your drive and open it to access.
+> * Save a copy of the notebook in your drive and open it to access.
 # Technologies used
 <p>
   <img src="DSrequirement.jpg" width="850" height="273" align="center" alt="DS" title="Requirements" />
